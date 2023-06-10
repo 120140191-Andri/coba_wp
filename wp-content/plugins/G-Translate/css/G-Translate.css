@@ -1,0 +1,33 @@
+.box-translate{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.isi-translate{
+    width: 120px;
+}
+
+.goog-te-combo{
+    margin: 0;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    border-color: white !important;
+}
+
+.VIpgJd-ZVi9od-l4eHX-hSRGPd::before{    
+    content: "\a";
+    white-space: pre;
+}
+
+.pt-cv-page{
+    border-radius: 12px;
+}
